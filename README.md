@@ -1,2 +1,2 @@
-# sentence-classification-microservice-demo
- sentence classification microservice with java, open nlp and spring boot
+# sentence-classification-in-microservice-demo
+ sentence classification in microservice with java, open nlp and spring boot
